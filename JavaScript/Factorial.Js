@@ -23,3 +23,7 @@
              };
         
            console.log(factorial(4));
+
+
+
+//   Always remember while creating function expression about the concept of function hoisting
